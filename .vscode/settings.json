@@ -1,0 +1,8 @@
+{
+  "eslint.workingDirectories": [
+    "./packages/backend",
+    "./packages/frontend",
+    "./packages/mobile"
+  ],
+  "git.ignoreLimitWarning": true
+}
