@@ -5,16 +5,16 @@
 <h4 align="center">🚀 Next Level Week #1</h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ltavernard/ecoleta">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/next-level-week-1">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ltavernard/ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/next-level-week-1">
 
-  <a href="https://github.com/ltavernard/ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ltavernard/ecoleta">
+  <a href="https://github.com/lucianotavernard/next-level-week-1">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/next-level-week-1">
   </a>
 
-  <a href="https://github.com/ltavernard/ecoleta/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ltavernard/ecoleta">
+  <a href="https://github.com/lucianotavernard/next-level-week-1">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/next-level-week-1">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/ecoleta.png" width="100%">
+  <img alt="Frontend" src=".github/next-level-week.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
@@ -52,8 +52,8 @@ Para rodar essa aplicação, você precisa ter [Git](https://git-scm.com), [Node
 
 ### No momento, você pode iniciar o projeto com as seguintes etapas:
 
-1. Clone o repositório: `https://github.com/ltavernard/ecoleta.git`
-2. Acesse o diretório do projeto: `cd ecoleta`
+1. Clone o repositório: `https://github.com/lucianotavernard/next-level-week-1`
+2. Acesse o diretório do projeto: `cd next-level-week-1`
 3. Rode o comando para instalar as dependências: `yarn`
 4. Rode o comando para instalar as outras dependências: `yarn bootstrap`
 5. Rode o comando para criar as migrations: `yarn db:migrate`
